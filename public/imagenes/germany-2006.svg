@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Copa Mundial Alemania 2006</title>
+  <desc id="desc">Ilustracion simple de la edicion Alemania 2006.</desc>
+  <rect width="800" height="167" fill="#111"/>
+  <rect y="167" width="800" height="166" fill="#d62727"/>
+  <rect y="333" width="800" height="167" fill="#f4c542"/>
+  <circle cx="400" cy="240" r="85" fill="#fff"/>
+  <text x="400" y="420" fill="#111" font-family="Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle">Alemania 2006</text>
+</svg>

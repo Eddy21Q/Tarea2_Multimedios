@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Sudafrica 2010">
+  <rect width="900" height="520" fill="#007a4d"/>
+  <path d="M0 0h900v95H0z" fill="#de3831"/>
+  <path d="M0 425h900v95H0z" fill="#002395"/>
+  <path d="M0 0 330 260 0 520z" fill="#000"/>
+  <path d="M0 52 265 260 0 468" fill="none" stroke="#ffb612" stroke-width="70"/>
+  <circle cx="650" cy="250" r="95" fill="#f7d44a"/>
+  <text x="390" y="115" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#fff">Sudafrica 2010</text>
+  <text x="390" y="425" font-family="Arial, sans-serif" font-size="34" fill="#fff">Espana campeon</text>
+</svg>

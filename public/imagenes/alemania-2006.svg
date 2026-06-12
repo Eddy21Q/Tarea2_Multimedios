@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Alemania 2006">
+  <rect width="900" height="173" fill="#111"/>
+  <rect y="173" width="900" height="174" fill="#dd0000"/>
+  <rect y="347" width="900" height="173" fill="#ffce00"/>
+  <circle cx="665" cy="240" r="92" fill="#fff"/>
+  <path d="M590 370h150l-28 68H618z" fill="#222"/>
+  <text x="75" y="115" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#fff">Alemania 2006</text>
+  <text x="75" y="420" font-family="Arial, sans-serif" font-size="34" fill="#111">Italia campeon</text>
+</svg>

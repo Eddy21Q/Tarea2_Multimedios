@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Rusia 2018">
+  <rect width="900" height="173" fill="#fff"/>
+  <rect y="173" width="900" height="174" fill="#1c57a6"/>
+  <rect y="347" width="900" height="173" fill="#d52b1e"/>
+  <circle cx="640" cy="245" r="95" fill="#f2c94c"/>
+  <path d="M560 378h160l-30 72H590z" fill="#202020"/>
+  <text x="70" y="120" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#111">Rusia 2018</text>
+  <text x="70" y="420" font-family="Arial, sans-serif" font-size="34" fill="#fff">Francia campeon</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Qatar 2022">
+  <rect width="900" height="520" fill="#7a1634"/>
+  <path d="M0 0h300l80 52-80 52 80 52-80 52 80 52-80 52 80 52-80 52 80 52-80 52H0z" fill="#fff"/>
+  <circle cx="620" cy="220" r="90" fill="#f6d365"/>
+  <path d="M540 360h160l-28 70H568z" fill="#222"/>
+  <text x="450" y="100" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#fff">Qatar 2022</text>
+  <text x="450" y="155" font-family="Arial, sans-serif" font-size="30" fill="#fff">Argentina campeon</text>
+</svg>
