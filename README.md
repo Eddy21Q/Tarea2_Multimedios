@@ -83,7 +83,7 @@ Las imagenes estan en `public/imagenes` y se sirven desde `/imagenes`.
 Ejemplo:
 
 ```txt
-http://localhost:4321/imagenes/qatar-2022.svg
+http://localhost:4321/imagenes/MessiConCopa.png
 ```
 
 Cada registro de la base tiene un campo `imagen` que coincide con un archivo dentro de esa carpeta.

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
-  <title id="title">Copa Mundial Rusia 2018</title>
-  <desc id="desc">Ilustracion simple de la edicion Rusia 2018.</desc>
-  <rect width="800" height="500" fill="#fff"/>
-  <rect y="167" width="800" height="166" fill="#2447a8"/>
-  <rect y="333" width="800" height="167" fill="#d62727"/>
-  <circle cx="400" cy="230" r="88" fill="#f4c542"/>
-  <text x="400" y="420" fill="#111" font-family="Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle">Rusia 2018</text>
-</svg>

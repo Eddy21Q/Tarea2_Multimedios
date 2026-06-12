@@ -7,7 +7,7 @@
     "subcampeon": "Francia",
     "goleador": "Kylian Mbappe",
     "equipos": 32,
-    "imagen": "qatar-2022.svg",
+    "imagen": "MessiConCopa.png",
     "slug": "qatar-2022",
     "resumen": "Argentina campeon tras una final epica ante Francia.",
     "descripcion": "Primer Mundial en Medio Oriente; Argentina gano en penales su tercer titulo."
@@ -20,7 +20,7 @@
     "subcampeon": "Croacia",
     "goleador": "Harry Kane",
     "equipos": 32,
-    "imagen": "rusia-2018.svg",
+    "imagen": "FranciaVsCroacia.png",
     "slug": "rusia-2018",
     "resumen": "Francia consiguio su segundo titulo mundial.",
     "descripcion": "El equipo frances vencio a Croacia en una final con muchos goles en Moscu."
@@ -33,7 +33,7 @@
     "subcampeon": "Argentina",
     "goleador": "James Rodriguez",
     "equipos": 32,
-    "imagen": "brasil-2014.svg",
+    "imagen": "AlemaniaCampeon.png",
     "slug": "brasil-2014",
     "resumen": "Alemania fue campeon con gol en tiempo extra.",
     "descripcion": "La final en Rio de Janeiro se resolvio con el gol de Mario Gotze ante Argentina."
@@ -46,7 +46,7 @@
     "subcampeon": "Paises Bajos",
     "goleador": "Thomas Muller",
     "equipos": 32,
-    "imagen": "sudafrica-2010.svg",
+    "imagen": "Iniesta.png",
     "slug": "sudafrica-2010",
     "resumen": "Espana obtuvo su primer Mundial.",
     "descripcion": "El torneo fue el primero realizado en Africa y la final se decidio con gol de Iniesta."
@@ -59,7 +59,7 @@
     "subcampeon": "Francia",
     "goleador": "Miroslav Klose",
     "equipos": 32,
-    "imagen": "alemania-2006.svg",
+    "imagen": "ItaliaCampeon.png",
     "slug": "alemania-2006",
     "resumen": "Italia gano su cuarto titulo mundial.",
     "descripcion": "La final ante Francia termino en penales despues de un empate en Berlin."
@@ -72,7 +72,7 @@
     "subcampeon": "Alemania",
     "goleador": "Ronaldo",
     "equipos": 32,
-    "imagen": "corea-japon-2002.svg",
+    "imagen": "Ronaldo.png",
     "slug": "corea-japon-2002",
     "resumen": "Brasil gano su quinto Mundial.",
     "descripcion": "Fue el primer Mundial organizado en Asia y Ronaldo marco dos goles en la final."
