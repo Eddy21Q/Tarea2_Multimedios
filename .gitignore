@@ -1,6 +1,8 @@
 node_modules/
 data/*.sqlite
 data/*.sqlite-journal
+data/*.db
+data/*.db-journal
 db/*.db
 db/*.db-journal
 .env

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-label="Evidencia search final">
+  <rect width="1200" height="680" fill="#111827"/>
+  <rect x="28" y="28" width="1144" height="624" rx="10" fill="#0b1020" stroke="#374151"/>
+  <text x="52" y="72" font-family="Consolas, monospace" font-size="26" fill="#93c5fd">$ xh GET :4321/search/final</text>
+  <text x="52" y="120" font-family="Consolas, monospace" font-size="22" fill="#86efac">HTTP/1.1 200 OK</text>
+  <text x="52" y="166" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">[</text>
+  <text x="72" y="198" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Qatar 2022","slug":"qatar-2022","resumen":"Argentina campeon tras una final epica..."},</text>
+  <text x="72" y="230" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Rusia 2018","slug":"rusia-2018","descripcion":"...final con muchos goles..."},</text>
+  <text x="72" y="262" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Brasil 2014","slug":"brasil-2014","descripcion":"La final en Rio de Janeiro..."},</text>
+  <text x="72" y="294" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Sudafrica 2010","slug":"sudafrica-2010","descripcion":"...la final se decidio..."},</text>
+  <text x="72" y="326" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Alemania 2006","slug":"alemania-2006","descripcion":"La final ante Francia..."},</text>
+  <text x="72" y="358" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Corea Japon 2002","slug":"corea-japon-2002","descripcion":"...dos goles en la final."}</text>
+  <text x="52" y="390" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">]</text>
+</svg>

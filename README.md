@@ -20,7 +20,13 @@ npm install
 npm run seed
 ```
 
-El comando crea `db/mundiales.db` y registra 6 ediciones del Mundial.
+El comando crea `data/mundiales.db` y registra 6 ediciones del Mundial.
+
+Tambien se puede usar el alias del ejemplo de clase:
+
+```bash
+npm run db
+```
 
 ## Ejecutar
 
@@ -68,6 +74,8 @@ xh GET :4321/search/ab              # 400 JSON, minimo 3 caracteres
 
 Para las capturas del laboratorio use esos comandos completos, incluyendo el status HTTP y el cuerpo JSON que devuelve cada ruta.
 
+Tambien deje imagenes listas en la carpeta `evidencias/` con cada una de esas pruebas.
+
 ## Imagenes
 
 Las imagenes estan en `public/imagenes` y se sirven desde `/imagenes`.
@@ -79,3 +87,12 @@ http://localhost:4321/imagenes/qatar-2022.svg
 ```
 
 Cada registro de la base tiene un campo `imagen` que coincide con un archivo dentro de esa carpeta.
+
+## Estructura
+
+- `index.js`: entrada principal de Express.
+- `data/CREATE.SQL`: script para crear la tabla.
+- `data/createdb.js`: crea y puebla la base SQLite.
+- `data/mundiales.json`: datos iniciales.
+- `data/mundiales.js`: consultas SQL.
+- `routes/mundiales`: rutas separadas y validaciones con Zod.

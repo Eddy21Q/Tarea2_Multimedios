@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Evidencia random">
+  <rect width="1200" height="560" fill="#111827"/>
+  <rect x="28" y="28" width="1144" height="504" rx="10" fill="#0b1020" stroke="#374151"/>
+  <text x="52" y="72" font-family="Consolas, monospace" font-size="26" fill="#93c5fd">$ xh GET :4321/random</text>
+  <text x="52" y="120" font-family="Consolas, monospace" font-size="22" fill="#86efac">HTTP/1.1 200 OK</text>
+  <text x="52" y="166" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Corea Japon 2002","anio":2002,"sede":"Corea del Sur y Japon",</text>
+  <text x="52" y="198" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "campeon":"Brasil","subcampeon":"Alemania","goleador":"Ronaldo","equipos":32,</text>
+  <text x="52" y="230" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "imagen":"corea-japon-2002.svg","slug":"corea-japon-2002",</text>
+  <text x="52" y="262" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "resumen":"Brasil gano su quinto Mundial.",</text>
+  <text x="52" y="294" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "descripcion":"Fue el primer Mundial organizado en Asia y Ronaldo marco dos goles en la final."}</text>
+</svg>

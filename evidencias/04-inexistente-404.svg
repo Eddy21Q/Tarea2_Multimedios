@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Evidencia 404 mundial inexistente">
+  <rect width="1200" height="500" fill="#111827"/>
+  <rect x="28" y="28" width="1144" height="444" rx="10" fill="#0b1020" stroke="#374151"/>
+  <text x="52" y="72" font-family="Consolas, monospace" font-size="26" fill="#93c5fd">$ xh GET :4321/mundial/inexistente</text>
+  <text x="52" y="120" font-family="Consolas, monospace" font-size="22" fill="#fca5a5">HTTP/1.1 404 Not Found</text>
+  <text x="52" y="168" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">Content-Type: application/json; charset=utf-8</text>
+  <text x="52" y="220" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"error":"Not Found","mensaje":"No existe el mundial solicitado."}</text>
+</svg>

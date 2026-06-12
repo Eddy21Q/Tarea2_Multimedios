@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="Evidencia campeon Argentina">
+  <rect width="1200" height="440" fill="#111827"/>
+  <rect x="28" y="28" width="1144" height="384" rx="10" fill="#0b1020" stroke="#374151"/>
+  <text x="52" y="72" font-family="Consolas, monospace" font-size="26" fill="#93c5fd">$ xh GET :4321/campeon/Argentina</text>
+  <text x="52" y="120" font-family="Consolas, monospace" font-size="22" fill="#86efac">HTTP/1.1 200 OK</text>
+  <text x="52" y="168" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"pais":"Argentina","slugs":["qatar-2022"]}</text>
+</svg>

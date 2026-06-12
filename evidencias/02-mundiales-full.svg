@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Evidencia xh GET mundiales full">
+  <rect width="1200" height="760" fill="#111827"/>
+  <rect x="28" y="28" width="1144" height="704" rx="10" fill="#0b1020" stroke="#374151"/>
+  <text x="52" y="72" font-family="Consolas, monospace" font-size="26" fill="#93c5fd">$ xh GET :4321/mundiales include==full</text>
+  <text x="52" y="120" font-family="Consolas, monospace" font-size="22" fill="#86efac">HTTP/1.1 200 OK</text>
+  <text x="52" y="166" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">[</text>
+  <text x="72" y="198" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Qatar 2022","anio":2022,"sede":"Qatar","campeon":"Argentina",</text>
+  <text x="72" y="230" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "subcampeon":"Francia","goleador":"Kylian Mbappe","equipos":32,"imagen":"qatar-2022.svg",</text>
+  <text x="72" y="262" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "slug":"qatar-2022","resumen":"Argentina campeon tras una final epica ante Francia.",</text>
+  <text x="72" y="294" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "descripcion":"Primer Mundial en Medio Oriente; Argentina gano en penales su tercer titulo."},</text>
+  <text x="72" y="326" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">...</text>
+  <text x="72" y="358" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">{"nombre":"Copa Mundial Corea Japon 2002","anio":2002,"campeon":"Brasil",</text>
+  <text x="72" y="390" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "slug":"corea-japon-2002","resumen":"Brasil gano su quinto Mundial.",</text>
+  <text x="72" y="422" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb"> "descripcion":"Fue el primer Mundial organizado en Asia y Ronaldo marco dos goles en la final."}</text>
+  <text x="52" y="454" font-family="Consolas, monospace" font-size="18" fill="#e5e7eb">]</text>
+</svg>
