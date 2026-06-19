@@ -7,11 +7,16 @@
   "scripts": {
     "dev": "node --watch index.js",
     "start": "node index.js",
+    "test": "vitest run",
     "db": "node data/createdb.js",
     "seed": "node data/createdb.js"
   },
   "dependencies": {
     "express": "^5.2.1",
     "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4",
+    "vitest": "^4.0.15"
   }
 }
